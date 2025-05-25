@@ -1,0 +1,5 @@
+facebook_cookies.json
+facebook_group_posts.csv
+chromedriver.exe
+*.log
+__pycache__/
